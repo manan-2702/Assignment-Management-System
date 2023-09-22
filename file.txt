@@ -1,0 +1,2 @@
+employee table id name
+salary table id amount emp_id

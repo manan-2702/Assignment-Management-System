@@ -1,0 +1,2 @@
+No need  for sql database format as sequilize will initialize database by itself on the npm run start-dev command.
+But oyou will need to setup all the credential on .env file.
